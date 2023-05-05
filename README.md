@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aciamiaj&label=Profile%20views&color=0e75b6&style=flat" alt="aciamiaj" /> </p>
 
-- 👨‍💻 All of my projects are available at [www.jdeugenio.com](www.jdeugenio.com)
+- 👨‍💻 All of my projects are available at www.jdeugenio.com
 
 - 📫 You can react me at  **jdsnavarro@gmail.com, (647) 779-9949**
 
